@@ -31,7 +31,7 @@ import re #documentation: https://docs.python.org/3/library/re.html
 
 import discord #documentation: http://discordpy.readthedocs.io/en/latest/api.html
 
-TOKEN = 'NDU0NjQ4Mzc1ODcxMTQzOTM2.DfwgAg.vpZccChlM7B2okJgc4GFqzPTF6E'
+TOKEN = ''
 client = discord.Client()
 
 
